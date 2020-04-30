@@ -8,7 +8,8 @@
 			"fy21Planned": 21,
 			"fy21Achieved": 0,
 			"fy22Planned": 22,
-			"fy22Achieved": 0
+			"fy22Achieved": 0,
+			"methodology": "OPTIONAL TEXT"
 		},
 		"virtualization": {
 			"fy19Planned": 110,
@@ -29,7 +30,8 @@
 			"fy21Planned": 21,
 			"fy21Achieved": 0,
 			"fy22Planned": 22,
-			"fy22Achieved": 0
+			"fy22Achieved": 0,
+			"methodology": "OPTIONAL TEXT"
 		},
 		"availability": {
 			"fy19Planned": 99.9,
@@ -39,7 +41,8 @@
 			"fy21Planned": 99.99,
 			"fy21Achieved": 0,
 			"fy22Planned": 99.99,
-			"fy22Achieved": 0
+			"fy22Achieved": 0,
+			"methodology": "OPTIONAL TEXT"
 		}
 	},
 	"closures": {
